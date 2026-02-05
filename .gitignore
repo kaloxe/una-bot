@@ -1,6 +1,7 @@
 # Created by https://gitignore.org
 # Node.gitignore
 .env
+
 # Logs
 logs
 *.log
