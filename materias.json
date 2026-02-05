@@ -1,0 +1,3137 @@
+[
+  {
+    "codigo": "011",
+    "materia": "SERVICIO COMUNITARIO",
+    "asesores": [
+      {
+        "nombre": "Paula Perez SC",
+        "correo": "serviciocomunitariounalara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "050",
+    "materia": "EDUCACION INICIAL",
+    "asesores": [
+      {
+        "nombre": "Dedsy Delgado",
+        "correo": "dedsy.una.cei@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "051",
+    "materia": "SALUD, ALTERACIONES Y PREVENCION EN EDUCACION I",
+    "asesores": [
+      {
+        "nombre": "Deilimir Rodriguez",
+        "correo": "deilimir26@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "052",
+    "materia": "DESARROLLO DEL NIÑO DE 0 A 3 AÑOS",
+    "asesores": [
+      {
+        "nombre": "Deilimir Rodriguez",
+        "correo": "deilimir26@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "053",
+    "materia": "DESARROLLO PSICOMOTOR EN EDUCACION INICIAL",
+    "asesores": [
+      {
+        "nombre": "Deilimir Rodriguez",
+        "correo": "deilimir26@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "054",
+    "materia": "DESARROLLO COGNOSCITIVO DEL NIÑO DE 4 A 7 AÑOS",
+    "asesores": [
+      {
+        "nombre": "Deilimir Rodriguez",
+        "correo": "deilimir26@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "055",
+    "materia": "PRACTICA I DESARROLLO DEL NIÑO DE 0 A 3 AÑOS",
+    "asesores": [
+      {
+        "nombre": "Dedsy Delgado",
+        "correo": "dedsy.una.cei@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "056",
+    "materia": "EVALUACION Y PLANIFICACION EN EDUCACION INICIAL",
+    "asesores": [
+      {
+        "nombre": "Deilimir Rodriguez",
+        "correo": "deilimir26@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "057",
+    "materia": "DESARROLLO SOCIAL Y EMOCIONAL DEL NIÑO DE 4 A 7 A",
+    "asesores": [
+      {
+        "nombre": "Deilimir Rodriguez",
+        "correo": "deilimir26@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "058",
+    "materia": "LA FAMILIA, LA COMUNIDAD Y EL NIÑO EN EDUCACION INI",
+    "asesores": [
+      {
+        "nombre": "Dedsy Delgado",
+        "correo": "dedsy.una.cei@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "059",
+    "materia": "PRACTICA II DESARROLLO COGNOSCITIVO, SOCIOEMOC",
+    "asesores": [
+      {
+        "nombre": "Dedsy Delgado",
+        "correo": "dedsy.una.cei@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "060",
+    "materia": "CREATIVIDAD EN EDUCACION INICIAL",
+    "asesores": [
+      {
+        "nombre": "Deilimir Rodriguez",
+        "correo": "deilimir26@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "061",
+    "materia": "PRACTICA III EL MAESTRO EN AULA",
+    "asesores": [
+      {
+        "nombre": "Dedsy Delgado",
+        "correo": "dedsy.una.cei@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "062",
+    "materia": "EXPRESION Y CULTURA EN EDUCACION INICIAL",
+    "asesores": [
+      {
+        "nombre": "Deilimir Rodriguez",
+        "correo": "deilimir26@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "063",
+    "materia": "SOLUCION A PROBLEMAS EDUCATIVOS EN EDUCACION I",
+    "asesores": [
+      {
+        "nombre": "Dedsy Delgado",
+        "correo": "dedsy.una.cei@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "064",
+    "materia": "PRACTICA IV PROCESOS ADMINISTRATIVOS EN CENTROS",
+    "asesores": [
+      {
+        "nombre": "Dedsy Delgado",
+        "correo": "dedsy.una.cei@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "106",
+    "materia": "PRESENTACION A LA FISICA",
+    "asesores": [
+      {
+        "nombre": "Luli Gonzalez",
+        "correo": "una.ingenieria.luli@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "107",
+    "materia": "LOGICA",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "108",
+    "materia": "INGLES",
+    "asesores": [
+      {
+        "nombre": "Nivel Central",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "115",
+    "materia": "LENGUA Y COMUNICACION",
+    "asesores": [
+      {
+        "nombre": "Manuel Torrealba",
+        "correo": "manuel230561@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "116",
+    "materia": "INTRODUCCION A LA INFORMATICA",
+    "asesores": [
+      {
+        "nombre": "Ariany Rodriguez",
+        "correo": "arianyrodriguez77@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "117",
+    "materia": "AMBIENTE Y DESARROLLO SOSTENIBLE EN VENEZUELA",
+    "asesores": [
+      {
+        "nombre": "Beatriz Vasquez",
+        "correo": "gusabre311@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "118",
+    "materia": "METODOLOGIA DE LA INVESTIGACION",
+    "asesores": [
+      {
+        "nombre": "Yamileth Lucena",
+        "correo": "preguntasuni@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "119",
+    "materia": "TEMAS DE ETICA",
+    "asesores": [
+      {
+        "nombre": "Esther Rangel",
+        "correo": "sofiaveronica@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "120",
+    "materia": "LENGUA Y COMUNICACION EN EDUCACION",
+    "asesores": [
+      {
+        "nombre": "Yetzabeth Perez",
+        "correo": "asesoria.academica.una.ypa@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "121",
+    "materia": "PROBLEMATICA DEL DESARROLLO VENEZOLANO",
+    "asesores": [
+      {
+        "nombre": "Esther Rangel",
+        "correo": "sofiaveronica@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "122",
+    "materia": "INTRODUCCION A LA HERMENEUTICA",
+    "asesores": [
+      {
+        "nombre": "Yamileth Lucena",
+        "correo": "preguntasuni@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "126",
+    "materia": "INTRODUCCION A LA INVESTIGACION",
+    "asesores": [
+      {
+        "nombre": "Yamileth Lucena",
+        "correo": "preguntasuni@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "175",
+    "materia": "MATEMATICA I (EDUCACION)",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "176",
+    "materia": "MATEMATICA I (ADMINISTRACION)",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "177",
+    "materia": "MATEMATICA I (INGENIERIA-MATEMATICA)",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "178",
+    "materia": "MATEMATICA II (ADMINISTRACION)",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "179",
+    "materia": "MATEMATICA II (ING, MAT, EDUC. MAT)",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "200",
+    "materia": "INTRODUCCION A LA INGENIERIA INDUSTRIAL",
+    "asesores": [
+      {
+        "nombre": "Luis Diaz",
+        "correo": "ingenieroLdia25@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "201",
+    "materia": "SEGURIDAD E HIGIENE INDUSTRIAL",
+    "asesores": [
+      {
+        "nombre": "Luli Gonzalez",
+        "correo": "una.ingenieria.luli@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "202",
+    "materia": "PROCESOS DE MANUFACTURAS",
+    "asesores": [
+      {
+        "nombre": "Neddy Guevara",
+        "correo": "neddyuna2023@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "203",
+    "materia": "CONTROL DE PRODUCCION",
+    "asesores": [
+      {
+        "nombre": "Neddy Guevara",
+        "correo": "neddyuna2023@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "204",
+    "materia": "MANEJO DE MATERIALES",
+    "asesores": [
+      {
+        "nombre": "Neddy Guevara",
+        "correo": "neddyuna2023@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "205",
+    "materia": "CONTROL DE CALIDAD",
+    "asesores": [
+      {
+        "nombre": "Luis Diaz",
+        "correo": "ingenieroLdia25@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "206",
+    "materia": "INGENIERIA DE METODOS",
+    "asesores": [
+      {
+        "nombre": "Neddy Guevara",
+        "correo": "neddyuna2023@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "207",
+    "materia": "MANTENIMIENTO INDUSTRIAL",
+    "asesores": [
+      {
+        "nombre": "Neddy Guevara",
+        "correo": "neddyuna2023@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "208",
+    "materia": "DIBUJO INDUSTRIAL",
+    "asesores": [
+      {
+        "nombre": "Luli Gonzalez",
+        "correo": "una.ingenieria.luli@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "209",
+    "materia": "QUIMICA",
+    "asesores": [
+      {
+        "nombre": "Luli Gonzalez",
+        "correo": "una.ingenieria.luli@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "216",
+    "materia": "INGENIERIA DE PLANTA",
+    "asesores": [
+      {
+        "nombre": "Luis Diaz",
+        "correo": "ingenieroLdia25@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "222",
+    "materia": "ECONOMIA PARA INGENIEROS",
+    "asesores": [
+      {
+        "nombre": "Luli Gonzalez",
+        "correo": "una.ingenieria.luli@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "223",
+    "materia": "GERENCIA INDUSTRIAL",
+    "asesores": [
+      {
+        "nombre": "Luis Diaz",
+        "correo": "ingenieroLdia25@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "225",
+    "materia": "EVALUACION DE PROYECTOS",
+    "asesores": [
+      {
+        "nombre": "Luis Diaz",
+        "correo": "ingenieroLdia25@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "228",
+    "materia": "INSTRUMENTACION Y CONTROL",
+    "asesores": [
+      {
+        "nombre": "Nivel Central",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "231",
+    "materia": "INGENIERIA DE MATERIALES",
+    "asesores": [
+      {
+        "nombre": "Neddy Guevara",
+        "correo": "neddyuna2023@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "232",
+    "materia": "MECANICA RACIONAL",
+    "asesores": [
+      {
+        "nombre": "Neddy Guevara",
+        "correo": "neddyuna2023@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "233",
+    "materia": "ELECTROTECNIA",
+    "asesores": [
+      {
+        "nombre": "Luis Diaz",
+        "correo": "ingenieroLdia25@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "234",
+    "materia": "TERMOFLUIDOS",
+    "asesores": [
+      {
+        "nombre": "Neddy Guevara",
+        "correo": "neddyuna2023@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "235",
+    "materia": "GERENCIA ORGANIZACIONAL",
+    "asesores": [
+      {
+        "nombre": "Neddy Guevara",
+        "correo": "neddyuna2023@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "236",
+    "materia": "LOGISTICA INDUSTRIAL",
+    "asesores": [
+      {
+        "nombre": "Neddy Guevara",
+        "correo": "neddyuna2023@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "237",
+    "materia": "PRACTICA PROFESIONAL I",
+    "asesores": [
+      {
+        "nombre": "Luis Diaz",
+        "correo": "ingenieroLdia25@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "238",
+    "materia": "PRACTICA PROFESIONAL II",
+    "asesores": [
+      {
+        "nombre": "Luis Diaz",
+        "correo": "ingenieroLdia25@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "240",
+    "materia": "PROCESOS QUIMICOS",
+    "asesores": [
+      {
+        "nombre": "Luli Gonzalez",
+        "correo": "una.ingenieria.luli@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "241",
+    "materia": "GESTION DE CALIDAD",
+    "asesores": [
+      {
+        "nombre": "Luis Diaz",
+        "correo": "ingenieroLdia25@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "251",
+    "materia": "PSICOLOGIA DEL TRABAJO",
+    "asesores": [
+      {
+        "nombre": "Luli Gonzalez",
+        "correo": "una.ingenieria.luli@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "252",
+    "materia": "PREVENCION DE RIESGO I",
+    "asesores": [
+      {
+        "nombre": "Luli Gonzalez",
+        "correo": "una.ingenieria.luli@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "255",
+    "materia": "PREVENCION DE RIESGO II",
+    "asesores": [
+      {
+        "nombre": "Luli Gonzalez",
+        "correo": "una.ingenieria.luli@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "257",
+    "materia": "PASANTIA",
+    "asesores": [
+      {
+        "nombre": "Luli Gonzalez",
+        "correo": "una.ingenieria.luli@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "258",
+    "materia": "ERGONOMIA",
+    "asesores": [
+      {
+        "nombre": "Luli Gonzalez",
+        "correo": "una.ingenieria.luli@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "259",
+    "materia": "LEGISLACION LABORAL",
+    "asesores": [
+      {
+        "nombre": "Luli Gonzalez",
+        "correo": "una.ingenieria.luli@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "300",
+    "materia": "FISICA GENERAL I",
+    "asesores": [
+      {
+        "nombre": "Neddy Guevara",
+        "correo": "neddyuna2023@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "305",
+    "materia": "TEORIA DE DECISIONES",
+    "asesores": [
+      {
+        "nombre": "Antonio Marcano",
+        "correo": "tomarca12@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "306",
+    "materia": "TEORIA DE SISTEMAS",
+    "asesores": [
+      {
+        "nombre": "Ariany Rodriguez",
+        "correo": "arianyrodriguez77@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "310",
+    "materia": "OPTIMIZACION NO LINEAL",
+    "asesores": [
+      {
+        "nombre": "Carlos Aguirre",
+        "correo": "carlosaguirrelinarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "311",
+    "materia": "BASE DE DATOS",
+    "asesores": [
+      {
+        "nombre": "Pedro Rodriguez",
+        "correo": "plrf@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "315",
+    "materia": "INVESTIGACION DE OPERACIONES I",
+    "asesores": [
+      {
+        "nombre": "Carlos Aguirre",
+        "correo": "carlosaguirrelinarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "316",
+    "materia": "MICROPROCESADORES",
+    "asesores": [
+      {
+        "nombre": "Pedro Rodriguez",
+        "correo": "plrf@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "320",
+    "materia": "INVESTIGACION DE OPERACIONES III",
+    "asesores": [
+      {
+        "nombre": "Carlos Aguirre",
+        "correo": "carlosaguirrelinarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "323",
+    "materia": "COMPUTACION I",
+    "asesores": [
+      {
+        "nombre": "Pedro Rodriguez",
+        "correo": "plrf@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "324",
+    "materia": "COMPUTACION II",
+    "asesores": [
+      {
+        "nombre": "Pedro Rodriguez",
+        "correo": "plrf@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "326",
+    "materia": "FISICA GENERAL II",
+    "asesores": [
+      {
+        "nombre": "Luis Diaz",
+        "correo": "ingenieroLdiaz25@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "327",
+    "materia": "INTRODUCCION A LA INGENIERIA DE SISTEMAS",
+    "asesores": [
+      {
+        "nombre": "Antonio Marcano",
+        "correo": "tomarca12@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "330",
+    "materia": "PROCESAMIENTO DE DATOS",
+    "asesores": [
+      {
+        "nombre": "Pedro Rodriguez",
+        "correo": "plrf@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "332",
+    "materia": "GRAFOS Y MATRICES",
+    "asesores": [
+      {
+        "nombre": "Antonio Marcano",
+        "correo": "tomarca12@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "333",
+    "materia": "ARQUITECTURA DEL COMPUTADOR",
+    "asesores": [
+      {
+        "nombre": "Ariany Rodriguez",
+        "correo": "arianyrodriguez77@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "334",
+    "materia": "COMPUTACION GRAFICA",
+    "asesores": [
+      {
+        "nombre": "Ariany Rodriguez",
+        "correo": "arianyrodriguez77@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "335",
+    "materia": "SISTEMAS DE INFORMACION I",
+    "asesores": [
+      {
+        "nombre": "Carlos Aguirre",
+        "correo": "carlosaguirrelinarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "336",
+    "materia": "SISTEMAS DE INFORMACION II",
+    "asesores": [
+      {
+        "nombre": "Carlos Aguirre",
+        "correo": "carlosaguirrelinarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "337",
+    "materia": "SIMULACION DE SISTEMAS",
+    "asesores": [
+      {
+        "nombre": "Carlos Aguirre",
+        "correo": "carlosaguirrelinarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "338",
+    "materia": "SISTEMAS DE INFORMACION III",
+    "asesores": [
+      {
+        "nombre": "Carlos Aguirre",
+        "correo": "carlosaguirrelinarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "339",
+    "materia": "PRACTICA PROFESIONAL I",
+    "asesores": [
+      {
+        "nombre": "Pedro Rodriguez",
+        "correo": "plrf@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "341",
+    "materia": "PRACTICA PROFESIONAL II",
+    "asesores": [
+      {
+        "nombre": "Pedro Rodriguez",
+        "correo": "plrf@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "342",
+    "materia": "REDES DE COMPUTADORAS",
+    "asesores": [
+      {
+        "nombre": "Antonio Marcano",
+        "correo": "tomarca12@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "343",
+    "materia": "GESTION DE BASE DE DATOS",
+    "asesores": [
+      {
+        "nombre": "Pedro Rodriguez",
+        "correo": "plrf@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "344",
+    "materia": "PROGRAMACION ORIENTADA A OBJETOS",
+    "asesores": [
+      {
+        "nombre": "Pedro Rodriguez",
+        "correo": "plrf@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "345",
+    "materia": "TECNOLOGIA DE REDES",
+    "asesores": [
+      {
+        "nombre": "Antonio Marcano",
+        "correo": "tomarca12@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "347",
+    "materia": "INTRODUCCION A LA INTELIGENCIA ARTIFICIAL",
+    "asesores": [
+      {
+        "nombre": "Pedro Rodriguez",
+        "correo": "plrf@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "348",
+    "materia": "INVESTIGACION DE OPERACIONES II",
+    "asesores": [
+      {
+        "nombre": "Carlos Aguirre",
+        "correo": "carlosaguirrelinarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "349",
+    "materia": "ORGANIZACION Y METODOS",
+    "asesores": [
+      {
+        "nombre": "Carlos Aguirre",
+        "correo": "carlosaguirrelinarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "350",
+    "materia": "COMPUTACION EVOLUTIVA",
+    "asesores": [
+      {
+        "nombre": "Antonio Marcano",
+        "correo": "tomarca12@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "358",
+    "materia": "SISTEMAS OPERATIVOS",
+    "asesores": [
+      {
+        "nombre": "Antonio Marcano",
+        "correo": "tomarca12@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "359",
+    "materia": "APLICACION DE PROGRAMACION ENTERA Y DINAMICA",
+    "asesores": []
+  },
+  {
+    "codigo": "370",
+    "materia": "FUNDAMENTOS DEL COMPUTADOR",
+    "asesores": [
+      {
+        "nombre": "Ariany Rodriguez",
+        "correo": "arianyrodriguez77@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "371",
+    "materia": "TECNOLOGIA WEB",
+    "asesores": [
+      {
+        "nombre": "Ariany Rodriguez",
+        "correo": "arianyrodriguez77@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "372",
+    "materia": "MANTENIMIENTO PREVENTIVO Y CORRECTIVO",
+    "asesores": [
+      {
+        "nombre": "Antonio Marcano",
+        "correo": "tomarca12@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "373",
+    "materia": "MANTENIMIENTO PERFECTIVO Y ADAPTATIVO",
+    "asesores": [
+      {
+        "nombre": "Antonio Marcano",
+        "correo": "tomarca12@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "374",
+    "materia": "MARCO LEGAL INFORMATICO",
+    "asesores": [
+      {
+        "nombre": "Ariany Rodriguez",
+        "correo": "arianyrodriguez77@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "375",
+    "materia": "PASANTIA",
+    "asesores": [
+      {
+        "nombre": "Pedro Rodriguez",
+        "correo": "plrf@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "380",
+    "materia": "VIRUS INFORMATICO",
+    "asesores": [
+      {
+        "nombre": "Carlos Aguirre",
+        "correo": "carlosaguirrelinarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "405",
+    "materia": "DESARROLLO DE HABILIDADES COGNOSCITIVAS",
+    "asesores": [
+      {
+        "nombre": "Haddiel Colmenarez",
+        "correo": "haddielcolmenarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "408",
+    "materia": "MATEMATICA I",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "410",
+    "materia": "GEOGRAFIA GENERAL",
+    "asesores": [
+      {
+        "nombre": "Maria Rojas",
+        "correo": "proferojasmaria@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "411",
+    "materia": "DESARROLLO PSICOSOCIAL DEL LENGUAJE",
+    "asesores": [
+      {
+        "nombre": "Yetzabeth Perez",
+        "correo": "asesoria.academica.una.ypa@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "412",
+    "materia": "EDUCACION BASICA",
+    "asesores": [
+      {
+        "nombre": "Manuel Torrealba",
+        "correo": "manuel230561@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "414",
+    "materia": "MATEMATICA II",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "416",
+    "materia": "GEOGRAFIA DE VENEZUELA",
+    "asesores": [
+      {
+        "nombre": "Maria Rojas",
+        "correo": "proferojasmaria@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "420",
+    "materia": "GEOMETRIA",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "422",
+    "materia": "HISTORIA DE VENEZUELA",
+    "asesores": [
+      {
+        "nombre": "Maria Rojas",
+        "correo": "proferojasmaria@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "421",
+    "materia": "PLANIFICACION DE LA INSTRUCCION",
+    "asesores": [
+      {
+        "nombre": "Cecilia Maria Garcia",
+        "correo": "profaeciliagarciauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "423",
+    "materia": "SEM DESARR PERS DISEÑ PUBLIC PERIODICAS",
+    "asesores": [
+      {
+        "nombre": "Haddiel Colmenarez",
+        "correo": "haddielcolmenarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "427",
+    "materia": "TECNICAS Y RECURSOS PARA EL APRENDIZAJE",
+    "asesores": [
+      {
+        "nombre": "Cecilia Maria Garcia",
+        "correo": "profaeciliagarciauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "428",
+    "materia": "HISTORIA UNIVERSAL",
+    "asesores": [
+      {
+        "nombre": "Maria Rojas",
+        "correo": "proferojasmaria@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "431",
+    "materia": "ARTES PLASTICAS",
+    "asesores": [
+      {
+        "nombre": "Manuel Torrealba",
+        "correo": "manuel230561@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "433",
+    "materia": "EVALUACION",
+    "asesores": [
+      {
+        "nombre": "Manuel Torrealba",
+        "correo": "manuel230561@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "434",
+    "materia": "FORMACION CIUDADANA",
+    "asesores": [
+      {
+        "nombre": "Maria Rojas",
+        "correo": "proferojasmaria@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "437",
+    "materia": "MUSICA Y ARTES ESCENICAS",
+    "asesores": [
+      {
+        "nombre": "Manuel Torrealba",
+        "correo": "manuel230561@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "440",
+    "materia": "INTRODUCCION A LA INFORMATICA",
+    "asesores": [
+      {
+        "nombre": "Ariany Rodriguez",
+        "correo": "arianyrodriguez77@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "444",
+    "materia": "EDUCACION FISICA Y DEPORTES",
+    "asesores": [
+      {
+        "nombre": "Maria Rojas",
+        "correo": "proferojasmaria@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "451",
+    "materia": "SEMINARIO DE INVESTIGACION EDUCATIVA",
+    "asesores": [
+      {
+        "nombre": "Maria Rojas",
+        "correo": "proferojasmaria@gmail.com"
+      },
+      {
+        "nombre": "Beatriz Vasquez",
+        "correo": "gusabre311@gmail.com"
+      },
+      {
+        "nombre": "Yetzabeth Perez",
+        "correo": "asesoria.academica.una.ypa@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "454",
+    "materia": "ANALISIS GRAMATICAL",
+    "asesores": [
+      {
+        "nombre": "Yetzabeth Perez",
+        "correo": "asesoria.academica.una.ypa@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "457",
+    "materia": "LITERATURA VENEZOLANA I",
+    "asesores": [
+      {
+        "nombre": "Yetzabeth Perez",
+        "correo": "asesoria.academica.una.ypa@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "465",
+    "materia": "PROCESOS CULTURALES DE LA VENEZUELA CONTEMPO",
+    "asesores": [
+      {
+        "nombre": "Haddiel Colmenarez",
+        "correo": "haddielcolmenarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "468",
+    "materia": "NUEVAS FORMAS DE PARTICIPACION CIUDADANA",
+    "asesores": [
+      {
+        "nombre": "Maria Rojas",
+        "correo": "proferojasmaria@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "469",
+    "materia": "HISTORIA Y GEOGRAFIA REGIONAL",
+    "asesores": [
+      {
+        "nombre": "Maria Rojas",
+        "correo": "proferojasmaria@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "471",
+    "materia": "PRACTICA DOCENTE I",
+    "asesores": [
+      {
+        "nombre": "Beatriz Vasquez",
+        "correo": "gusabre311@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "472",
+    "materia": "PRACTICA DOCENTE II",
+    "asesores": [
+      {
+        "nombre": "Beatriz Vasquez",
+        "correo": "gusabre311@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "473",
+    "materia": "PRACTICA DOCENTE III",
+    "asesores": [
+      {
+        "nombre": "Beatriz Vasquez",
+        "correo": "gusabre311@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "474",
+    "materia": "PRACTICA DOCENTE IV",
+    "asesores": [
+      {
+        "nombre": "Beatriz Vasquez",
+        "correo": "gusabre311@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "475",
+    "materia": "PRACTICA DOCENTE V",
+    "asesores": [
+      {
+        "nombre": "Beatriz Vasquez",
+        "correo": "gusabre311@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "476",
+    "materia": "MATEMATICA",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "477",
+    "materia": "FUNDAMENTOS DE LA EDUCACION",
+    "asesores": [
+      {
+        "nombre": "Cecilia Maria Garcia",
+        "correo": "profaeciliagarciauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "478",
+    "materia": "LECTO-ESCRITURA",
+    "asesores": [
+      {
+        "nombre": "Yetzabeth Perez",
+        "correo": "asesoria.academica.una.ypa@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "479",
+    "materia": "ENSEÑANZA DE LA MATEMATICA",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "480",
+    "materia": "EDUCACION AMBIENTAL",
+    "asesores": [
+      {
+        "nombre": "Beatriz Vasquez",
+        "correo": "gusabre311@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "481",
+    "materia": "LITERATURA INFANTIL Y JUVENIL",
+    "asesores": [
+      {
+        "nombre": "Yetzabeth Perez",
+        "correo": "asesoria.academica.una.ypa@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "483",
+    "materia": "PLANIFICACION DE LA ENSEÑANZA",
+    "asesores": [
+      {
+        "nombre": "Haddiel Colmenarez",
+        "correo": "haddielcolmenarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "484",
+    "materia": "GEOGRAFIA GENERAL Y DE VENEZUELA",
+    "asesores": [
+      {
+        "nombre": "Maria Rojas",
+        "correo": "proferojasmaria@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "485",
+    "materia": "CIENCIAS NATURALES I",
+    "asesores": [
+      {
+        "nombre": "Beatriz Vasquez",
+        "correo": "gusabre311@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "486",
+    "materia": "EDUCACION ESTETICA",
+    "asesores": [
+      {
+        "nombre": "Manuel Torrealba",
+        "correo": "manuel230561@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "487",
+    "materia": "DIDACTICA PARA EL DOCENTE INTEGRADOR",
+    "asesores": [
+      {
+        "nombre": "Manuel Torrealba",
+        "correo": "manuel230561@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "488",
+    "materia": "HISTORIA DE VENEZUELA",
+    "asesores": [
+      {
+        "nombre": "Maria Rojas",
+        "correo": "proferojasmaria@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "489",
+    "materia": "CIENCIAS NATURALES II",
+    "asesores": [
+      {
+        "nombre": "Beatriz Vasquez",
+        "correo": "gusabre311@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "490",
+    "materia": "SEM DESARR PERS COMUNICACION EFICAZ",
+    "asesores": [
+      {
+        "nombre": "Cecilia Maria Garcia",
+        "correo": "profaeciliagarciauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "491",
+    "materia": "ENSEÑANZA DE LA LENGUA",
+    "asesores": [
+      {
+        "nombre": "Yetzabeth Perez",
+        "correo": "asesoria.academica.una.ypa@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "492",
+    "materia": "SEMINARIO PRACTICO FORMACION PARA EL TRABAJO",
+    "asesores": [
+      {
+        "nombre": "Esther Rangel",
+        "correo": "sofiaveronica@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "493",
+    "materia": "EVALUACION",
+    "asesores": [
+      {
+        "nombre": "Cecilia Maria Garcia",
+        "correo": "profaeciliagarciauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "494",
+    "materia": "EDUCACION FISICA Y RECREACION",
+    "asesores": [
+      {
+        "nombre": "Maria Rojas",
+        "correo": "proferojasmaria@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "495",
+    "materia": "PRACTICA DE ACCION DOCENTE",
+    "asesores": [
+      {
+        "nombre": "Yetzabeth Perez",
+        "correo": "asesoria.academica.una.ypa@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "497",
+    "materia": "PRACTICA DE PROMOCION DE CAMBIO",
+    "asesores": [
+      {
+        "nombre": "Yetzabeth Perez",
+        "correo": "asesoria.academica.una.ypa@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "498",
+    "materia": "SEM DESARR PERS LIDERAZG UNA ESTRAT PARA EL CA",
+    "asesores": [
+      {
+        "nombre": "Esther Rangel",
+        "correo": "sofiaveronica@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "512",
+    "materia": "PROGRAMAS DE EXPRESION",
+    "asesores": [
+      {
+        "nombre": "Maria Campos",
+        "correo": "mariauxicamposmnedina@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "516",
+    "materia": "FUNDAMENTOS DE LA ACCION DOCENTE",
+    "asesores": [
+      {
+        "nombre": "Haddiel Colmenarez",
+        "correo": "haddielcolmenarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "517",
+    "materia": "FILOSOFIA DE LA EDUCACION",
+    "asesores": [
+      {
+        "nombre": "Cecilia Maria Garcia",
+        "correo": "profaeciliagarciauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "520",
+    "materia": "PENSAMIENTO Y LENGUAJE",
+    "asesores": [
+      {
+        "nombre": "Maria Campos",
+        "correo": "mariauxicamposmedina@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "524",
+    "materia": "DESARROLLO DEL SISTEMA EDUCATIVO VENEZOLANO",
+    "asesores": [
+      {
+        "nombre": "Cecilia Maria Garcia",
+        "correo": "profaeciliagarciauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "530",
+    "materia": "PLANIFICACION EDUCATIVA",
+    "asesores": [
+      {
+        "nombre": "Cecilia Maria Garcia",
+        "correo": "profaeciliagarciauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "532",
+    "materia": "MATEMATICAS Y CIENCIAS",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "534",
+    "materia": "EVALUACION EDUCATIVA",
+    "asesores": [
+      {
+        "nombre": "Cecilia Maria Garcia",
+        "correo": "profaeciliagarciauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "536",
+    "materia": "GERENCIA EDUCATIVA",
+    "asesores": [
+      {
+        "nombre": "Yamileth Lucena",
+        "correo": "preguntasuni@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "542",
+    "materia": "DIDACTICA DE LA ARITMETICA",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "545",
+    "materia": "TEORIA DE LA EDUCACION MATEMATICA",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "547",
+    "materia": "DIDACTICA DEL ALGEBRA Y LA TRIGONOMETRIA",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "551",
+    "materia": "EVALUACION DE LOS APRENDIZAJES EN MATEMATICA",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "552",
+    "materia": "DIDACTICA DE LA GEOMETRIA",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "559",
+    "materia": "APRENDIZAJE DE LA LECTURA Y LA ESCRITURA",
+    "asesores": [
+      {
+        "nombre": "Dedsy Delgado",
+        "correo": "dedsy.una.cei@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "560",
+    "materia": "DESARROLLO PERSONAL DEL DOCENTE",
+    "asesores": [
+      {
+        "nombre": "Deilimir Rodríguez",
+        "correo": "deilimir26@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "562",
+    "materia": "DESARROLLO DEL LENGUAJE",
+    "asesores": [
+      {
+        "nombre": "Deilimir Rodríguez",
+        "correo": "deilimir26@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "564",
+    "materia": "LITERATURA INFANTIL",
+    "asesores": [
+      {
+        "nombre": "Dedsy Delgado",
+        "correo": "dedsy.una.cei@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "570",
+    "materia": "DESARROLLO PSICOLOGICO",
+    "asesores": [
+      {
+        "nombre": "Cecilia Maria Garcia",
+        "correo": "profaeciliagarciauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "571",
+    "materia": "PSICOLOGIA EDUCATIVA",
+    "asesores": [
+      {
+        "nombre": "Haddiel Colmenarez",
+        "correo": "haddielcolmenarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "575",
+    "materia": "TOPICOS DE MATEMATICA",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "576",
+    "materia": "SOCIOLOGIA DE LA EDUCACION Y DESARROLLO COMUNI",
+    "asesores": [
+      {
+        "nombre": "Esther Rangel",
+        "correo": "sofiaveronica@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "577",
+    "materia": "DIDACTICA DE LA ESTOCASTICA",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "578",
+    "materia": "INVESTIGACION EDUCATIVA",
+    "asesores": [
+      {
+        "nombre": "Yamileth Lucena",
+        "correo": "preguntasuni@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "579",
+    "materia": "PRACTICUM I",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "580",
+    "materia": "PRACTICUM II",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "581",
+    "materia": "EDUCACION ESPECIAL",
+    "asesores": [
+      {
+        "nombre": "Paula Perez",
+        "correo": "dificultadesaprendizajeunalara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "582",
+    "materia": "ALTERACIONES DEL DESARROLLO",
+    "asesores": [
+      {
+        "nombre": "Maria Campos",
+        "correo": "mariauxicamposmedina@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "583",
+    "materia": "INTRODUCCION A LAS DIFICULTADES DE APRENDIZAJE",
+    "asesores": [
+      {
+        "nombre": "Maria Campos",
+        "correo": "mariauxicamposmedina@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "584",
+    "materia": "PRACTICA PROFESIONAL I",
+    "asesores": [
+      {
+        "nombre": "Paula Perez",
+        "correo": "dificultadesaprendizajeunalara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "585",
+    "materia": "ENFOQUES TEORICOS EN DIFICULTADES DE APRENDIZA",
+    "asesores": [
+      {
+        "nombre": "Maria Campos",
+        "correo": "mariauxicamposmedina@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "586",
+    "materia": "EVALUACION DEL EDUCANDO CON DIFICULTADES DE AP",
+    "asesores": [
+      {
+        "nombre": "Paula Perez",
+        "correo": "dificultadesaprendizajeunalara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "587",
+    "materia": "ORIENTACION FAMILIAR",
+    "asesores": [
+      {
+        "nombre": "Maria Campos",
+        "correo": "mariauxicamposmedina@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "588",
+    "materia": "PREVENCION DE LAS NECESIDADES EDUCATIVAS ESPEC",
+    "asesores": [
+      {
+        "nombre": "Paula Perez",
+        "correo": "dificultadesaprendizajeunalara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "589",
+    "materia": "PROGRAMACION DIDACTICA EN DIFICULTADES DE APRE",
+    "asesores": [
+      {
+        "nombre": "Maria Campos",
+        "correo": "mariauxicamposmedina@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "590",
+    "materia": "ATENCION EDUCATIVA EN DIFICULTADES DE APRENDIZA",
+    "asesores": [
+      {
+        "nombre": "Maria Campos",
+        "correo": "mariauxicamposmedina@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "591",
+    "materia": "INTEGRACION EDUCATIVA DEL SUJETO CON NECESIDAD",
+    "asesores": [
+      {
+        "nombre": "Paula Perez",
+        "correo": "dificultadesaprendizajeunalara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "592",
+    "materia": "DESARROLLO Y PATOLOGIA DEL LENGUAJE",
+    "asesores": [
+      {
+        "nombre": "Maria Campos",
+        "correo": "mariauxicamposmedina@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "593",
+    "materia": "PRACTICA PROFESIONAL II",
+    "asesores": [
+      {
+        "nombre": "Paula Perez",
+        "correo": "dificultadesaprendizajeunalara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "594",
+    "materia": "SOLUC A PROBL EDUCATIVOS EN EDUC ESPE INTEGRAL G",
+    "asesores": [
+      {
+        "nombre": "Paula Perez",
+        "correo": "dificultadesaprendizajeunalara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "595",
+    "materia": "GERENCIA DE PROGRAMAS, PLANTELES Y SERVICIOS EN",
+    "asesores": [
+      {
+        "nombre": "Maria Campos",
+        "correo": "mariauxicamposmedina@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "596",
+    "materia": "SOLUC A PROBL EDUCATIVOS EN EDUC ESPE INTEGRAL G",
+    "asesores": [
+      {
+        "nombre": "Paula Perez",
+        "correo": "dificultadesaprendizajeunalara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "597",
+    "materia": "PRACTICA PROFESIONAL III",
+    "asesores": [
+      {
+        "nombre": "Paula Perez",
+        "correo": "dificultadesaprendizajeunalara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "601",
+    "materia": "INTRODUCCION A LA ADMINISTRACION",
+    "asesores": [
+      {
+        "nombre": "Yudith Rivas",
+        "correo": "yudithr.contaduriauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "602",
+    "materia": "TEORIA DE LA ORGANIZACION",
+    "asesores": [
+      {
+        "nombre": "Edgar Colmenarez",
+        "correo": "edjacol@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "603",
+    "materia": "COMPORTAMIENTO ORGANIZACIONAL",
+    "asesores": [
+      {
+        "nombre": "Hilda Gomez",
+        "correo": "marinarod2012@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "604",
+    "materia": "ADMINISTRACION PUBLICA",
+    "asesores": [
+      {
+        "nombre": "Edgar Colmenarez",
+        "correo": "edjacol@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "605",
+    "materia": "SISTEMAS ADMINISTRATIVOS",
+    "asesores": [
+      {
+        "nombre": "Jose Gonzalez",
+        "correo": "gonzalesalex944910@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "606",
+    "materia": "SISTEMAS DE INFORMACION",
+    "asesores": [
+      {
+        "nombre": "Hilda Gomez",
+        "correo": "marinarod2012@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "607",
+    "materia": "ADMINISTRACION POR PROYECTO",
+    "asesores": [
+      {
+        "nombre": "Hilda Gomez",
+        "correo": "marinarod2012@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "608",
+    "materia": "CONTROL DE GESTION",
+    "asesores": [
+      {
+        "nombre": "Edgar Colmenarez",
+        "correo": "edjacol@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "613",
+    "materia": "INVESTIGACION ADMINISTRATIVA",
+    "asesores": [
+      {
+        "nombre": "Jose Gonzalez",
+        "correo": "gonzalesalex944910@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "614",
+    "materia": "ADMINISTRACION DE RECURSOS HUMANOS",
+    "asesores": [
+      {
+        "nombre": "Edgar Colmenarez",
+        "correo": "edjacol@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "615",
+    "materia": "RIESGOS Y SEGUROS",
+    "asesores": [
+      {
+        "nombre": "Nivel Central",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "616",
+    "materia": "REASEGUROS",
+    "asesores": [
+      {
+        "nombre": "Nivel Central",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "617",
+    "materia": "CONTABILIDAD INTERMEDIA APLICADA AL SEGURO",
+    "asesores": [
+      {
+        "nombre": "Nestor Mendoza",
+        "correo": "unacllaranestor@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "618",
+    "materia": "CONTABILIDAD COMPUTARIZADA",
+    "asesores": [
+      {
+        "nombre": "Yudith Rivas",
+        "correo": "yudithr.contaduriauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "619",
+    "materia": "ADMINISTRACION DEL RIESGO I",
+    "asesores": [
+      {
+        "nombre": "Nivel Central",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "620",
+    "materia": "FUNDAMENTOS DE INGENIERIA",
+    "asesores": [
+      {
+        "nombre": "Luis Diaz",
+        "correo": "ingenieroLdia25@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "621",
+    "materia": "QUIMICA",
+    "asesores": [
+      {
+        "nombre": "Luis Diaz",
+        "correo": "ingenieroLdia25@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "622",
+    "materia": "PREVENCION DE PERDIDAS",
+    "asesores": [
+      {
+        "nombre": "Nivel Central",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "625",
+    "materia": "INFORMATICA GERENCIAL",
+    "asesores": [
+      {
+        "nombre": "Hilda Gomez",
+        "correo": "marinarod2012@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "631",
+    "materia": "FUNDAMENTOS DE CONTABILIDAD",
+    "asesores": [
+      {
+        "nombre": "Nestor Mendoza",
+        "correo": "unacllaranestor@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "632",
+    "materia": "CONTABILIDAD INTERMEDIA",
+    "asesores": [
+      {
+        "nombre": "Nestor Mendoza",
+        "correo": "unacllaranestor@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "633",
+    "materia": "CONTABILIDAD SUPERIOR I",
+    "asesores": [
+      {
+        "nombre": "Margely Moreno",
+        "correo": "mmoreno.una@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "634",
+    "materia": "CONTABILIDAD GUBERNAMENTAL",
+    "asesores": [
+      {
+        "nombre": "Margely Moreno",
+        "correo": "mmoreno.una@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "636",
+    "materia": "MODELOS CONTABLES",
+    "asesores": [
+      {
+        "nombre": "Nestor Mendoza",
+        "correo": "unacllaranestor@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "637",
+    "materia": "CONTABILIDAD DE COSTOS I",
+    "asesores": [
+      {
+        "nombre": "Ender Heredia",
+        "correo": "enderheredia@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "638",
+    "materia": "SISTEMAS TRIBUTARIOS",
+    "asesores": [
+      {
+        "nombre": "Ender Heredia",
+        "correo": "enderheredia@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "639",
+    "materia": "CONTABILIDAD SUPERIOR II",
+    "asesores": [
+      {
+        "nombre": "Yudith Rivas",
+        "correo": "yudithr.contaduriauna@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "641",
+    "materia": "TEORIA ECONOMICA I",
+    "asesores": [
+      {
+        "nombre": "Nestor Mendoza",
+        "correo": "unacllaranestor@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "642",
+    "materia": "TEORIA ECONOMICA II",
+    "asesores": [
+      {
+        "nombre": "Yudith Rivas",
+        "correo": "yudithr.contaduriauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "644",
+    "materia": "ECONOMIA Y SEGUROS",
+    "asesores": [
+      {
+        "nombre": "Nivel Central",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "645",
+    "materia": "TEORIA DE DECISIONES",
+    "asesores": [
+      {
+        "nombre": "Nivel Central",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "646",
+    "materia": "TEORIA DEL RIESGO",
+    "asesores": [
+      {
+        "nombre": "Nivel Central",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "648",
+    "materia": "ADMINISTRACION DEL RIESGO II",
+    "asesores": [
+      {
+        "nombre": "Nivel Central",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "649",
+    "materia": "CONTABILIDAD SUPERIOR III",
+    "asesores": [
+      {
+        "nombre": "Margely Moreno",
+        "correo": "mmoreno.una@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "650",
+    "materia": "CONTABILIDAD DE COSTOS II",
+    "asesores": [
+      {
+        "nombre": "Nestor Mendoza",
+        "correo": "unacllaranestor@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "651",
+    "materia": "DERECHO MERCANTIL",
+    "asesores": [
+      {
+        "nombre": "Ender Heredia",
+        "correo": "enderheredia@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "653",
+    "materia": "DERECHO LABORAL",
+    "asesores": [
+      {
+        "nombre": "Margely Moreno",
+        "correo": "mmoreno.una@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "654",
+    "materia": "DERECHO APLICADO AL SEGURO",
+    "asesores": [
+      {
+        "nombre": "Nivel Central",
+        "correo": "unidadacademica.cllara@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "655",
+    "materia": "COSTO INDUSTRIAL",
+    "asesores": [
+      {
+        "nombre": "Margely Moreno",
+        "correo": "mmoreno.una@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "661",
+    "materia": "ADMINISTRACION FINANCIERA",
+    "asesores": [
+      {
+        "nombre": "Edgar Colmenarez",
+        "correo": "edjacol@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "663",
+    "materia": "FINANZAS Y PRESUPUESTO PUBLICO",
+    "asesores": [
+      {
+        "nombre": "Yudith Rivas",
+        "correo": "yudithr.contaduriauna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "665",
+    "materia": "ANALISIS DE ESTADOS FINANCIEROS I",
+    "asesores": [
+      {
+        "nombre": "Margely Moreno",
+        "correo": "mmoreno.una@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "666",
+    "materia": "ANALISIS DE ESTADOS FINANCIEROS II",
+    "asesores": [
+      {
+        "nombre": "Margely Moreno",
+        "correo": "mmoreno.una@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "669",
+    "materia": "PRESUPUESTO EMPRESARIAL",
+    "asesores": [
+      {
+        "nombre": "Hilda Gomez",
+        "correo": "marinarod2012@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "671",
+    "materia": "MERCADOTECNIA",
+    "asesores": [
+      {
+        "nombre": "Jose Gonzalez",
+        "correo": "gonzalesalex944910@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "672",
+    "materia": "INVESTIGACION DE MERCADO",
+    "asesores": [
+      {
+        "nombre": "Jose Gonzalez",
+        "correo": "gonzalesalex944910@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "673",
+    "materia": "CONTABILIDAD FISCAL",
+    "asesores": [
+      {
+        "nombre": "Ender Heredia",
+        "correo": "enderheredia@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "681",
+    "materia": "PLANIFICACION Y CONTROL DE LA PRODUCCION",
+    "asesores": [
+      {
+        "nombre": "Jose Gonzalez",
+        "correo": "gonzalesalex944910@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "691",
+    "materia": "AUDITORIA I",
+    "asesores": [
+      {
+        "nombre": "Ender Heredia",
+        "correo": "enderheredia@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "692",
+    "materia": "AUDITORIA II",
+    "asesores": [
+      {
+        "nombre": "Ender Heredia",
+        "correo": "enderheredia@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "696",
+    "materia": "PASANTIA",
+    "asesores": [
+      {
+        "nombre": "Hilda Gomez",
+        "correo": "marinarod2012@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "697",
+    "materia": "PASANTIA",
+    "asesores": [
+      {
+        "nombre": "Nestor Mendoza",
+        "correo": "unacllaranestor@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jose Guedez",
+        "correo": "joseluisguedez69@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "699",
+    "materia": "PASANTIA",
+    "asesores": [
+      {
+        "nombre": "Hilda Gomez",
+        "correo": "marinarod2012@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "733",
+    "materia": "MATEMATICA III (INGENIERIA)",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "734",
+    "materia": "MATEMATICA III (ADMINISTRACION)",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "735",
+    "materia": "MATEMATICA IV (INGENIERIA)",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "737",
+    "materia": "INTRODUCCION A LA PROBABILIDAD",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "738",
+    "materia": "INFERENCIA ESTADISTICA",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "739",
+    "materia": "MATEMATICA V",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "743",
+    "materia": "ELEMENTOS ACTUARIALES",
+    "asesores": [
+      {
+        "nombre": "Nivel Central",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "745",
+    "materia": "ESTADISTICA GENERAL",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "746",
+    "materia": "ESTADISTICA APLICADA",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "747",
+    "materia": "PROBABILIDAD",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "748",
+    "materia": "ESTADISTICA",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "749",
+    "materia": "CALCULO I",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "750",
+    "materia": "CALCULO II",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "751",
+    "materia": "CALCULO III",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "752",
+    "materia": "ALGEBRA I",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "753",
+    "materia": "ALGEBRA II",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "754",
+    "materia": "GEOMETRIA",
+    "asesores": [
+      {
+        "nombre": "Enedina Rodriguez",
+        "correo": "enlady@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "755",
+    "materia": "ECUACIONES DIFERENCIALES",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "756",
+    "materia": "CALCULO INTEGRAL",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "757",
+    "materia": "ALGEBRA I",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "758",
+    "materia": "CALCULO VECTORIAL",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "759",
+    "materia": "ALGEBRA II",
+    "asesores": [
+      {
+        "nombre": "Dionny Mendez",
+        "correo": "mendezdionny33@gmail.com"
+      },
+      {
+        "nombre": "CARORA: Jesus Alvarez",
+        "correo": "profesoresusgerardoalvarez@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "760",
+    "materia": "HISTORIA DE LAS MATEMATICAS",
+    "asesores": [
+      {
+        "nombre": "Enedina Rodriguez",
+        "correo": "enlady@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "761",
+    "materia": "DIDACTICA DEL CALCULO",
+    "asesores": [
+      {
+        "nombre": "Enedina Rodriguez",
+        "correo": "enlady@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "762",
+    "materia": "ANALISIS I",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "763",
+    "materia": "TOPICOS NUMERICOS EN CALCULO Y ALGEBRA",
+    "asesores": [
+      {
+        "nombre": "Unidad Académica",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "764",
+    "materia": "PROBABILIDAD Y ESTADISTICA I",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "765",
+    "materia": "DIDACTICA DEL ALGEBRA LINEAL Y LA PROBABILIDAD",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "766",
+    "materia": "ANALISIS II",
+    "asesores": [
+      {
+        "nombre": "Unidad Académica",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "767",
+    "materia": "ECUACIONES DIFERENCIALES",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "768",
+    "materia": "TOPOLOGIA",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "769",
+    "materia": "PRACTICA DOCENTE",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "770",
+    "materia": "TOPICOS DE ANALISIS MATEMATICO",
+    "asesores": [
+      {
+        "nombre": "Unidad Académica",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "771",
+    "materia": "OPTIMIZACION",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "772",
+    "materia": "PROBABILIDAD Y ESTADISTICA II",
+    "asesores": [
+      {
+        "nombre": "Janeth Marchan",
+        "correo": "marchanjanteh@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "773",
+    "materia": "MODELOS MATEMATICOS",
+    "asesores": [
+      {
+        "nombre": "Enedina Rodriguez",
+        "correo": "enlady@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "775",
+    "materia": "SISTEMAS DINAMICOS DISCRETOS",
+    "asesores": [
+      {
+        "nombre": "Unidad Académica",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "778",
+    "materia": "ANALISIS DE DATOS",
+    "asesores": [
+      {
+        "nombre": "Unidad Académica",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "779",
+    "materia": "PROGRAMACION NO LINEAL",
+    "asesores": [
+      {
+        "nombre": "Unidad Académica",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "781",
+    "materia": "INTRODUCCION A LOS ELEMENTOS FINITOS",
+    "asesores": [
+      {
+        "nombre": "Unidad Académica",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "782",
+    "materia": "ALGEBRA LINEAL NUMERICA",
+    "asesores": [
+      {
+        "nombre": "Unidad Académica",
+        "correo": "unidadacademica.cllara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "810",
+    "materia": "REDACCION DE INFORMES",
+    "asesores": [
+      {
+        "nombre": "Deilimir Rodriguez",
+        "correo": "deilimir26@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "811",
+    "materia": "FUNDAMENTOS BASICOS EN LA ELABORACION DE PROY",
+    "asesores": [
+      {
+        "nombre": "Esther Rangel",
+        "correo": "sofiaveronica@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "812",
+    "materia": "ELABORACION PERIODICA DE PUBLICACIONES ESCOLAR",
+    "asesores": [
+      {
+        "nombre": "Libia Bustos",
+        "correo": "orientacionlara@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "813",
+    "materia": "LIDERAZGO",
+    "asesores": [
+      {
+        "nombre": "Hilda Gomez",
+        "correo": "marinarod2012@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "814",
+    "materia": "SEMINARIO DE ACCION SOCIAL",
+    "asesores": [
+      {
+        "nombre": "Dedsy Delgado",
+        "correo": "dedsy.una.cei@gmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "816",
+    "materia": "FORMACION DE MICROEMPRESARIOS",
+    "asesores": [
+      {
+        "nombre": "Esther Rangel",
+        "correo": "sofiaveronica@hotmail.com"
+      }
+    ]
+  },
+  {
+    "codigo": "821",
+    "materia": "LATEX BASICO",
+    "asesores": [
+      {
+        "nombre": "Reny Zambrano",
+        "correo": "rzambranouna@gmail.com"
+      }
+    ]
+  }
+]
